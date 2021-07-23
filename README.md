@@ -1,13 +1,15 @@
-** Hi there I am Aditya **
+** Hi there, I am Aditya **
 
-Email : adityabagri33@gmail.com
+Email 📮 : adityabagri33@gmail.com
 
-Github : https://www.github.com/awv-adi
+Github 🔗 : https://www.github.com/awv-adi
 
-Country : India
+Country : ⛳ India
 
-Intrest_in = [" Web Development " , " Competitive Peogramming "," Python " , " C++ "];
+Intrest = [" 🌐 Web Development " , " Competitive Peogramming "," 🐍 Python " , " C++ "];
 
 👍You can ask me about anything.
 
 Status : 🖥️ Online most of the time.
+
+Be Safe ! 😷
